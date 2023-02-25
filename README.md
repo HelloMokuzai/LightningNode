@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/HelloMokuzai/LightningNode/main/images/ln-btc.png" alt="drawing" width="40%" height="40%"/>
+<img src="https://raw.githubusercontent.com/HelloMokuzai/LightningNode/main/images/ln-btc.png" alt="drawing" width="30%" height="30%"/>
 
 # MKZI⚡️ Lightning Node
 Connect to my Lightning Node!
