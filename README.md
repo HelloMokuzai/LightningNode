@@ -13,4 +13,4 @@ Connect to my Lightning Node! 🔗
 
 **Send me sats!** ❤️ `mkzi@zeuspay.com`
 
-⚠️ **Node is temporarily out of action!** I have closed all channels temporarily - as I am in the process of updating my hardware configuration. I will be back with a new setup, soon™! *MKZI*
+⚠️ **Node is temporarily out of action!** I have closed all channels temporarily - as I am in the process of updating my hardware configuration. I will be back with a new setup, soon™!
