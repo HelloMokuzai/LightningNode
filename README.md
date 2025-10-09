@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/HelloMokuzai/LightningNode/main/images/ln-btc.png" alt="drawing" width="30%" height="30%"/>
 
-# MKZI⚡️ Lightning Node
+# 🅼🅺🆉🅸⚡ Lightning Node
 Connect to my Lightning Node! 🔗
 
 **Tor Lightning Address:**
@@ -13,4 +13,5 @@ Connect to my Lightning Node! 🔗
 
 **Send me sats!** ❤️ `mkzi@zeuspay.com`
 
-⚠️ **Node is temporarily out of action!** I have closed all channels temporarily - as I am in the process of updating my hardware configuration. I will be back with a new setup, soon™!
+> [!WARNING]
+> **Node is temporarily out of action!** I have closed all channels temporarily - as I am in the process of updating my hardware configuration. I will be back with a new setup, soon™!
